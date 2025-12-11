@@ -7,3 +7,6 @@ seaborn
 matplotlib
 chardet
 tqdm
+openmeteo-requests
+requests-cache
+retry-requests
